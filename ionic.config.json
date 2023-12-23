@@ -1,0 +1,8 @@
+{
+  "name": "Duino-Coin Mobile MinerJS",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "3cbe510d"
+}
